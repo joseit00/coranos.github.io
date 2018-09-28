@@ -23,7 +23,6 @@
 | 21 | chjpmay1996#4174  | 2018-07-24 | ![](https://cdn.discordapp.com/attachments/416341951416369153/471195812760911872/Video_20180724130337079_by_videoshow.gif) |
 | 22 | NTD#0288  | 2018-07-24 | ![](https://cdn.discordapp.com/attachments/416341951416369153/471192339516358658/PicsArt_07-24-12.49.52.jpg) |
 | 23 | Mariツ Junglo#0036  | 2018-07-24 | ![](https://cdn.discordapp.com/attachments/416341951416369153/471159183182397471/meme2.png) |
-| 24 | azuLeto | pvp.me |#1082  | 2018-07-24 | ![](https://cdn.discordapp.com/attachments/416341951416369153/471152682753589248/Screenshot_20180724-0510313.png) |
 | 25 | Karla☯#6306  | 2018-07-24 | ![](https://cdn.discordapp.com/attachments/416341951416369153/471136765768499202/sorpresa.gif) |
 | 26 | CoinOperated1245#9875  | 2018-07-24 | ![](https://cdn.discordapp.com/attachments/416341951416369153/471135332361043968/SILLYBANANO.jpg) |
 | 27 | Madasiaka#4876  | 2018-07-24 | ![](https://cdn.discordapp.com/attachments/416341951416369153/471206981881823252/20180723_224803.jpg) |
@@ -560,7 +559,6 @@
 | 167 | krypt0x#6140 | 2018-03-21 | ![](https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/03/bitcoin-cryptocurrency--social.png) |
 | 168 | Ch1ck3n#1337 | 2018-03-22 | ![](https://cdn.discordapp.com/attachments/416341951416369153/426454781372923904/bananosplits.png) |
 | 169 | krypt0x#6140 | 2018-03-22 | ![](https://cdn.discordapp.com/attachments/416341951416369153/426520851626852374/tumblr_inline_okwxicFcrs1qfif3n_540.png) |
-| 170 | MorganOrion#3941 | 2018-03-23 | ![](https://cdn.discordapp.com/attachments/416341951416369153/426620376429101058/Banano_Banger.gif) |
 | 171 | MorganOrion#39411 | 2018-03-23 | ![](https://cdn.discordapp.com/attachments/416341951416369153/426620444771352576/Invested_9.png) |
 | 172 | Anemone, Shitpoet#5586 | 2018-03-24 | ![](https://cdn.discordapp.com/attachments/416341951416369153/427167439697215498/bananocolin.jpg) |
 | 173 | Ch1ck3n#1337 | 2018-03-24 | ![](https://cdn.discordapp.com/attachments/416341951416369153/427195248041656321/tumblr_lp4m3dW4e61r0f2mco1_500.jpg) |
