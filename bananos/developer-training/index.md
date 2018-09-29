@@ -26,6 +26,8 @@ Update the progress page when you are done with a lesson.
 
 ### [Lesson Nine, making gantt charts](09-lesson.md)
 
+### [Lesson Ten, making discord bots (es)](10-lesson.md)
+
 ## Lesson Notes
 
 To compare two files install the compare-files module in atom.
