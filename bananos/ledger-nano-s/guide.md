@@ -11,11 +11,9 @@ We recommend using Bananovault:
 [bananovault](https://vault.banano.co.in/)
 
 ## Installation and Setup Instructions
-To install and setup a ledger Nano S with Bananovault, follow our guide:  
+To install and setup a ledger Nano S with Bananovault, you can now protect your Banano with the most popular hardware wallet on the market!
 
-With the release of the Banano application for Ledger devices, you can now protect your Banano with the most popular hardware wallet on the market!
-
-Initial setup:
+### Initial setup
 
 If you haven’t already, create a PIN for your Ledger and install Ledger Live Desktop from http://ledger.com or http://ledger.com/live releases.  Don’t forget to back up your recovery phrase!
 
@@ -32,7 +30,7 @@ You should now see something that looks like this:
 
 ![image3]
 
-Connect your Ledger to BananoVault:
+### Connect your Ledger to BananoVault
 
 With your Ledger connected to your computer, visit BananoVault at https://vault.banano.co.in/ and click “Import Existing Wallet”.  
 
@@ -46,7 +44,7 @@ If your Ledger is properly connected to your computer with the Banano applicatio
 
 After sending Banano from BananoVault, you should now receive a notification on your Ledger prompting you to confirm or deny the transaction.  By default, BananoVault will receive transactions automatically.  If a transaction is pending, it can be confirmed manually by selecting "Receive" from the left sidebar, which will trigger the option to confirm manually on your Ledger device.  
 
-Congratulations!  You are now a crypto genius.
+### Congratulations!  You are now a crypto genius
 
 ![image1]
 
@@ -71,7 +69,7 @@ Be sure to verify the the transaction details on the device!
 If you have trouble, the best way to get help is to contact Coranos#4281 on the Banano Discord Server.
 [Banano Discord Server](https://discord.gg/ZdCmdCB)
 
-[image1]: images/image2.png "eyeglass"
+[image1]: images/image1.png "eyeglass"
 [image2]: images/image2.png "manager"
 [image3]: images/image3.png "ledger in menu"
 [image4]: images/image4.png "ledger in app"
