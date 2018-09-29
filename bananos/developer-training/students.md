@@ -30,4 +30,4 @@
 [liam05.github.io]: https://liam05.github.io
 [IsBemsho.github.io]: https://IsBemsho.github.io/
 [isata23677.github.io]: https://isata23677.github.io/
-[geysel2902.github.io] : https://geysel2902.github.io/ 
+[geysel2902.github.io]: https://geysel2902.github.io/ 
